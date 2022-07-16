@@ -2,3 +2,4 @@ this is new file
 hello world
 hello
 now force
+push all
